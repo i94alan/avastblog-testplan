@@ -1,0 +1,41 @@
+background
+Avast Secureline VPN proxy is a VPN service app that provides security and privacy by protecting your sensitive information using encryption shield 'tunnel' while you are on public / open WiFi.
+While the vpn connection is up, your communication is encrypted and personal data is impossible to be stolen. This document is aimed to provide the audience a high level test plan of this app on Android platform
+
+
+objective
+The goal of this test plan is to validate the mobile application and ensure all stated requirements in the software specification are met
+
+
+testing strategy
+pick a few android devices and ensure it's android os version is android 5, to ensure great backward compatiblity, since it will run on almost 94.1% of devices
+
+
+testing approach
+functional
+ui
+ux
+reliability
+security
+
+
+test case pass / fail criteria
+test is considered pass if all steps are met and marked green
+test is considered fail if at least one of the steps failed and marked red
+test is considered n/a if it needs further discussion
+
+
+feature
+connection rules
+ - auto connect rules
+ - split tunneling
+ - trusted network
+notification bar 
+subscription / cancel
+duration
+
+
+deliverables
+thist plan (this)
+test case 
+test report summary 
